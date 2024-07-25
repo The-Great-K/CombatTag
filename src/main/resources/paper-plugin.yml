@@ -1,0 +1,7 @@
+name: CombatTag
+version: '0.0.1'
+main: com.fadingdaze.combatTag.CombatTag
+api-version: '1.21'
+authors: [ The_Great_K ]
+description: Basic combat tag plugin
+website: https://fadingdaze.com/

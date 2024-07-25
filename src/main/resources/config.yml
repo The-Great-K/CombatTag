@@ -1,0 +1,7 @@
+tag-time: 30
+restricted:
+  - essentials.home
+  - essentials.tpr
+  - essentials.tpaccept
+  - essentials.tphere
+  - essentials.warp
